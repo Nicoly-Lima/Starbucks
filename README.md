@@ -1,4 +1,3 @@
-# Starbucks
 
 <h1 align="center">
   STARBUCKS
