@@ -19,8 +19,8 @@ Feita usando modelo Mobile First e Responsivo
 
 ## **Acessar Página**
 
-Clique no link para acessar a página: 
+Clique no link para acessar a página: https://nicoly-lima.github.io/Starbucks/
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Landing Page feita no Youtube pelo canal "Larissa Kich" para fins de estudo
 
